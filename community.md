@@ -3,7 +3,7 @@ layout: default
 title: community
 ---
 
-<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=26655472">AnalystX Data Viz</a></h2>
+<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=31173424">AnalystX Applied Evaluation Community of Practice</a></h2>
 <p>
   The community ...... . . 
 </p>
