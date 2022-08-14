@@ -18,9 +18,9 @@ title: community
   <li><b>Alex Cheung</b> - NHS England</li>
   <li><b>Commissiong Support Unit</b> - Arden and GEM CSU</li>
 </ul>
-
+</div>
 <div class="nhsuk-do-dont-list">
-  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=26655472">AnalystX Data Viz</a></h3>
+  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=26687056">Applied Evaluation Community of Practice</a></h3>
   <ul class="nhsuk-list nhsuk-list--tick">
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -46,7 +46,8 @@ title: community
 <path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
 </svg> link in other relevant networks.
       </li>
-</div>
+  </ul>
+    </div>
 
 <h2>Communities of Practice</h2>
 
