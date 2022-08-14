@@ -47,9 +47,9 @@ title: community
 </svg> link in other relevant networks.
       </li>
 
-
+<div>
 
 <h2>Communities of Practice</h2>
 
 We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Applied Evaluation Community of Practice – email [england.analystX@nhs.net](mailto:england.analystx@nhs.net) for more information.
-
+    </div>
