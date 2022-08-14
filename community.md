@@ -18,7 +18,7 @@ title: community
   <li><b>Alex Cheung</b> - NHS England</li>
   <li><b>Commissiong Support Unit</b> - Arden and GEM CSU</li>
 </ul>
-</div>
+
 <div class="nhsuk-do-dont-list">
   <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=26687056">Applied Evaluation Community of Practice</a></h3>
   <ul class="nhsuk-list nhsuk-list--tick">
@@ -47,12 +47,10 @@ title: community
 </svg> link in other relevant networks.
       </li>
   </ul>
-    </div>
+</div>
 
-<div>
+
 <h2>Communities of Practice</h2>
 
 We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Applied Evaluation Community of Practice.– email [england.analystX@nhs.net](mailto:england.analystx@nhs.net) for more information.
-</div>
-
 
