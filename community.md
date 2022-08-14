@@ -5,7 +5,7 @@ title: community
 
 <h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=31173424">AnalystX Applied Evaluation Community of Practice</a></h2>
 <p>
-  The community ...... . . 
+  This evaluation community of practice aims to allow people working on applied evaluation across health and social care to come together in a safe space to share and learn. We meet online regularly and hope to establish this social platform to enable members to share models, approaches, resources, challenges and solutions
 </p>
 <h2>Current Members:</h2>
 <ul>
