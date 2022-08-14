@@ -46,7 +46,6 @@ title: community
 <path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
 </svg> link in other relevant networks.
       </li>
-  </ul>
 </div>
 
 <h2>Communities of Practice</h2>
