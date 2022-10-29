@@ -5,7 +5,7 @@ email:             england.analystX@nhs.net
 author:            AnalystX Applied Evaluation Community of Practice
 description:       "Welcome to the AnalystX Applied Evaluation Community of Practice"
 url:               "https://analaystx.uk"
-baseurl:           "applied-evaluation/"
+baseurl:           "applied-evaluation"
 github_username:   nhs-analystx
 linkedin_username: 
 date_format:       "%b %-d, %Y"
