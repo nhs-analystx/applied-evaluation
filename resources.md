@@ -12,7 +12,6 @@ A number of blogs have been created and available to read on the [AnalystX works
 - [AnalystX Huddles](https://future.nhs.uk/DataAnalytics/view?objectId=26452496)
 - [Skills Development Network](https://www.skillsdevelopmentnetwork.com/home)
 - [Strategic partners learning pathways](https://future.nhs.uk/DataAnalytics/view?objectId=27093008)
-- [Population Health Data and Analytics Centre of Excellence](https://future.nhs.uk/DataAnalytics/view?objectID=28819536)
 
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
@@ -69,9 +68,9 @@ A number of blogs have been created and available to read on the [AnalystX works
             <img class="nhsuk-card__img" src="assets/img/links/FutureNHS.jpg" alt="AnalystX">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics">AnalystX</a>
+                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics/view?objectID=844538">Evidence discussion forum</a>
                 </h2>
-                <p>Subscribe to the AnalystX community site.</p>
+                <p>AnalystX Evidence discussion forum</p>
             </div>
         </div>
     </li>
