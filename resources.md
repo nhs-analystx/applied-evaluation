@@ -9,7 +9,6 @@ A number of blogs have been created and available to read on the [AnalystX works
 
 ## Links
 
-- [Analytics learning exchange](https://future.nhs.uk/DataAnalytics/view?objectID=26656560)
 - [AnalystX Huddles](https://future.nhs.uk/DataAnalytics/view?objectId=26452496)
 - [Skills Development Network](https://www.skillsdevelopmentnetwork.com/home)
 - [Strategic partners learning pathways](https://future.nhs.uk/DataAnalytics/view?objectId=27093008)
@@ -18,15 +17,28 @@ A number of blogs have been created and available to read on the [AnalystX works
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/links/slack-min.png" alt="AnalystX Process Mining Slack">
+            <img class="nhsuk-card__img" src="assets/img/links/futureNHS.jpg" alt="FutureNHS">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://analystx-pmcoe.slack.com/"> Slack channel</a>
+                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics/view?objectID=26656560">Analystics Learning Exchange</a>
                 </h2>
-                <p>Join us on Slack to chat to the community or ask us your questions.</p>
+                <p>AnalystX Analytics Learning Exchange - bite size learning .</p>
             </div>
         </div>
     </li>
+        <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/links/futureNHS.jpg" alt="FutureNHS">
+            <div class="nhsuk-card__content">
+                <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">PHDA CoE</a>
+                </h2>
+                <p>Population Health Data and Analytics Centre of Excellence</p>
+            </div>
+        </div>
+    </li>
+    </ul>
+ <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
             <img class="nhsuk-card__img" src="assets/img/links/linkedin-min.png" alt="AnalystX LinkedIn">
@@ -38,7 +50,6 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
-</ul>
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
@@ -51,6 +62,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
+    </ul>
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
@@ -68,7 +80,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             <img class="nhsuk-card__img" src="assets/img/links/github-min.png" alt="AnalystX GitHub">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://github.com/nhs-analystx"> GitHub repository</a>
+                    <a class="nhsuk-card__link" href="https://github.com/nhs-analystx/code-sharing"> GitHub repository</a>
                 </h2>
                 <p>Fork repositories on the AnalystX GitHub page.</p>
             </div>
